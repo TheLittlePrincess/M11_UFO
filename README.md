@@ -16,7 +16,7 @@ Through this project Dana’s webpage was made more dynamic. Also, it now provid
 
 2.	Enter the data in the sample format shown for each box. You can use one or more at a time.
 
-3.	Click enter 
+3.	Click enter. Here an example after filtering by date and state 
 
 ![Sample filtered by Date AND State]( https://github.com/TheLittlePrincess/M11_UFO/blob/main/images/date%20and%20state%20sample.png)
 

@@ -9,9 +9,9 @@ Through this project Dana’s webpage was made more dynamic. Also, it now provid
 ## Results
 
 ## How to use the site?
-1.	Go to any of the available filters: Date, City, Sate, Country and Shape
+1.	Go to any of the available filters to the leftside of the page: Date, City, Sate, Country and Shape
 
-![Filters]( https://github.com/TheLittlePrincess/M11_UFO/blob/main/images/Filters.png)
+![Filters]( https://github.com/TheLittlePrincess/M11_UFO/blob/main/images/before%20filtering.png)
 
 
 2.	Enter the data in the sample format shown for each box. You can use one or more at a time.
